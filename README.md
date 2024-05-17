@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 📝 I regularly write articles on [medium.com/@isabellegohsy](medium.com/@isabellegohsy)
+- 📝 I regularly write articles on **[medium.com/@isabellegohsy](medium.com/@isabellegohsy)**
 
 - 📫 How to reach me **isabellegohsy@gmail.com**
 

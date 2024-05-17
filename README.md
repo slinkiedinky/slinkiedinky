@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **isabellegohsy@gmail.com**
 
-### Blogs posts
+### 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Finding my Unfair Advantage](https://medium.com/@isabellegohsy/finding-my-unfair-advantage-eea5e4717037?source=rss-9fa5f24681b4------2)
 <!-- BLOG-POST-LIST:END -->

@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **The Odin Project's final project**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **VueJS**
 
-- 📝 I regularly write articles on **[medium.com/@isabellegohsy](medium.com/@isabellegohsy)**
+<!--- 📝 I regularly write articles on **[medium.com/@isabellegohsy](medium.com/@isabellegohsy)**
 
-- 📫 How to reach me **isabellegohsy@gmail.com**
+- 📫 Drop me an email at  **isabellegoh.2023@smu.edu.sg**
 
-### 📚 Blogs posts: 
+<!--### 📚 Blogs posts: 
 <!-- BLOG-POST-LIST:START -->
-- [Finding my Unfair Advantage](https://medium.com/@isabellegohsy/finding-my-unfair-advantage-eea5e4717037?source=rss-9fa5f24681b4------2)
+<!-- [Finding my Unfair Advantage](https://medium.com/@isabellegohsy/finding-my-unfair-advantage-eea5e4717037?source=rss-9fa5f24681b4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

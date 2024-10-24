@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isabelle</h1>
+<h1 align="center">Hi 👋, I'm Isabelle!</h1>
 <!-- <h3 align="center">A passionate software developer from Singapore!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slinkiedinky&label=Profile%20views&color=ff66de&style=flat" alt="slinkiedinky" /> </p>

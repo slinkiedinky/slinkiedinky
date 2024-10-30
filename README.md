@@ -12,12 +12,6 @@
 <!--- 📝 I regularly write articles on **[medium.com/@isabellegohsy](medium.com/@isabellegohsy)**
 
 - 📫 Drop me an email at  **isabellegoh.2023@smu.edu.sg**
-
-<!--### 📚 Blogs posts: 
-<!-- BLOG-POST-LIST:START -->
-- [Finding my Unfair Advantage](https://medium.com/@isabellegohsy/finding-my-unfair-advantage-eea5e4717037?source=rss-9fa5f24681b4------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isabellegoh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabellegoh1" height="30" width="40" /></a>

@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slinkiedinky" alt="slinkiedinky" /></a> </p> -->
 
-- 🔭 I’m currently working on **The Odin Project's final project**
+<!-- 🔭 I’m currently working on **The Odin Project's final project**
 
 - 🌱 I’m currently learning **VueJS**
 
